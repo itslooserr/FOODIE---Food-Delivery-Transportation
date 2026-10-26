@@ -1,0 +1,6 @@
+{
+  "name": "FOODIE",
+  "description": "All-in-one food ordering, instant grocery delivery, and ride booking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
